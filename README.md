@@ -16,7 +16,7 @@ Click [here](https://colab.research.google.com/) to open the notebooks directly 
 1. Clone this repository to your local machine.
 2. Ensure you have Python installed. If not, download and install it from [python.org](https://www.python.org/).
 3. Launch Jupyter Notebook from the command line by running `jupyter notebook`.
-4. Use the wines_SPA.csv dataset for classification tasks, with 'type' as the target variable in the dataset.
+4. Use the in-vehicle-coupon-recommendation.csv dataset for classification tasks, with 'type' as the target variable in the dataset.
 
 ## Contributing
 We welcome contributions from the community to make this repository better. To contribute, follow these steps:
