@@ -22,6 +22,7 @@ Click [here](https://colab.research.google.com/) to open the notebooks directly 
 We welcome contributions from the community to make this repository better. To contribute, follow these steps:
 1. Fork this repository to your GitHub account.
 2. Create a new branch for your feature or bug fix: `git checkout -b feature-name`.
-3. Commit your changes with descriptive commit messages: `git commit -am 'Add feature: description'`.
-4. Push your changes to your fork: `git push origin feature-name`.
-5. Open a pull request on the original repository, describing your changes.
+3. Then stage your changes: `git add . `.
+4. Commit your changes with descriptive commit messages: `git commit -m 'feat : description'`.
+5. Push your changes to your fork: `git push origin feature-name`.
+6. Open a pull request on the original repository, describing your changes.
